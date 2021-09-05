@@ -1,1 +1,1 @@
-# Praca-inzynierska-backend-baza
+# Maciej Chmielewski - Praca inzynierska backend
